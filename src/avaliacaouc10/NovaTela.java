@@ -5,10 +5,9 @@
  */
 package avaliacaouc10;
 
-/**
- *
- * @author 311100469
- */
+//Eu só boto Bee Bop no meu samba quando o Tio Sam tocar um pandeirinho
+
+
 public class NovaTela {
     
 }
